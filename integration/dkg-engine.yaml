@@ -7,8 +7,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/glaciation-heu/gitops-deployments
-    path: integration/apps/dkg-engine
+    repoURL: https://github.com/Shockedshodan/HIRO-sandbox
+    path: integration/overlays/dev/dkg-engine
     targetRevision: HEAD
     directory:
       recurse: true
