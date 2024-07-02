@@ -18,6 +18,8 @@ spec:
       valuesObject:
         settings:
           metadata_service_url: "http://metadata-service/api/v0/graph"
+    directory:
+      recurse: false
   syncPolicy:
     automated:
      prune: true
